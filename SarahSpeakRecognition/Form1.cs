@@ -179,13 +179,7 @@ namespace SarahSpeakRecognition
 
 
                 }
-                if (estimatedChargeRemaninig <70)
-                {
-                    Sarah.SpeakAsync("the estimated charge is " + estimatedChargeRemaninig + "less than 70%");
-
-
-                }
-              
+            
 
 
             }
