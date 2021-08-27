@@ -1,0 +1,10 @@
+﻿Hello
+How are you 
+What time is it
+Wake up
+Stop talking
+Stop Listening
+Show Commands
+Hide Commands
+How much battery power do i have
+Hello Sarah

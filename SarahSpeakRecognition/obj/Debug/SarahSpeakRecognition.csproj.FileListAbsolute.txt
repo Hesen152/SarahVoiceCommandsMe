@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.Form1.resources
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.Properties.Resources.resources
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\bin\Debug\SarahSpeakRecognition.exe.config
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\bin\Debug\SarahSpeakRecognition.exe
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\bin\Debug\SarahSpeakRecognition.pdb
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.exe
+C:\Users\User\source\repos\SarahSpeakRecognition\SarahSpeakRecognition\obj\Debug\SarahSpeakRecognition.pdb
